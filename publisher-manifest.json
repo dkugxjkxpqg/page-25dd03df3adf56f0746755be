@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "e70434929e3db629b3c88205",
+  "owner": "dkugxjkxpqg",
+  "repo": "page-25dd03df3adf56f0746755be",
+  "title": "银河加速",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "25dd03df3adf56f0746755be",
+      "a": "银河加速",
+      "b": "机场官网线路发布页",
+      "entity": "银河加速",
+      "brand": "银河加速",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "6de413931411a762a119cd166691701db1c46297c34467d085d67d1ad4ac8843",
+      "content": {
+        "primary_entity": "银河加速",
+        "keyword1": "银河加速",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，银河加速提供基础版、旗舰版与团队版三档订阅，月付分别为¥15、¥35、¥85，年付低至¥150、¥350、¥850。流量从100GB到1000GB，在线设备从3台到20台递增，旗舰版与团队版覆盖流媒体解锁、IPLC专线优化及优先支持。选择前可先评估常用设备数量与月均流量需求，再对照套餐权益确认节点类型与订阅周期。",
+          "AI_HERO_SUBTITLE": "多设备订阅与套餐对比",
+          "AI_HERO_INTRO": "银河加速面向日常浏览、流媒体与远程办公场景提供多档订阅方案，按设备数量与月流量划分。选择时先确认常用终端数，再比对三档套餐的节点与权益，订阅后参考客户端文档导入配置。",
+          "AI_VISUAL_TITLE": "银河加速套餐与设备选择",
+          "AI_HIGHLIGHT_1": "三档订阅覆盖3至20台设备",
+          "AI_HIGHLIGHT_2": "年付方案价格更实惠",
+          "AI_HIGHLIGHT_3": "按流量与节点类型对比",
+          "AI_FEATURES_TITLE": "订阅要点",
+          "AI_FEATURES_INTRO": "围绕设备数量、流量额度与订阅周期整理三档套餐差异。",
+          "AI_FEATURE_TITLE_1": "设备数量选择",
+          "AI_FEATURE_TEXT_1": "基础版3台，旗舰版5台，团队版20台，按同时在线终端数匹配。",
+          "AI_FEATURE_TITLE_2": "流量额度对比",
+          "AI_FEATURE_TEXT_2": "100GB、300GB与1000GB三档月流量，轻度与重度使用各有对应。",
+          "AI_FEATURE_TITLE_3": "订阅周期与权益",
+          "AI_FEATURE_TEXT_3": "年付价格折算更低，旗舰版含IPLC专线优化，团队版支持定制路由。",
+          "AI_CLIENTS_TITLE": "客户端按设备选择",
+          "AI_CLIENTS_INTRO": "不同系统需搭配对应订阅客户端，建议按终端类型选择并参照文档完成导入。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版¥15/月（年付¥150），旗舰版¥35/月（年付¥350），团队版¥85/月（年付¥850），按设备数与流量需求挑选。",
+          "AI_GUIDE_TITLE": "配置步骤",
+          "AI_GUIDE_INTRO": "先确认设备与流量需求，再对照套餐权益，最后依客户端文档配置订阅。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "根据常用设备数量与月流量预估，在基础版、旗舰版、团队版中确定一档。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "核对操作系统与客户端类型，确认同时在线设备数与节点类型是否符合需要。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "参考对应客户端文档导入订阅信息，完成节点连接设置。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "银河加速三档套餐怎么选？",
+          "AI_FAQ_ANSWER_1": "按设备数与流量区分：基础版3台/100GB适合轻量，旗舰版5台/300GB适合多设备，团队版20台/1000GB适合多人协作。",
+          "AI_FAQ_QUESTION_2": "年付比月付便宜多少？",
+          "AI_FAQ_ANSWER_2": "基础版月付¥15、年付¥150；旗舰版月付¥35、年付¥350；团队版月付¥85、年付¥850，年付折算后平均月费更低。",
+          "AI_FAQ_QUESTION_3": "订阅支持哪些客户端？",
+          "AI_FAQ_ANSWER_3": "常见桌面与移动系统均有对应客户端，建议按操作系统与设备类型挑选，并参照客户端文档完成订阅导入。",
+          "AI_FAQ_QUESTION_4": "多设备同时用会不会冲突？",
+          "AI_FAQ_ANSWER_4": "每档套餐设定了同时在线设备上限，基础版3台、旗舰版5台、团队版20台，超出上限时需升级或调整在线设备。",
+          "AI_FAQ_QUESTION_5": "旗舰版的IPLC专线有什么用？",
+          "AI_FAQ_ANSWER_5": "IPLC专线主要用于游戏与实时交互场景，减少绕行节点，旗舰版与团队版包含专线优化或高带宽节点。",
+          "AI_CLOSING_TITLE": "按需选套餐",
+          "AI_CLOSING_TEXT": "先确认设备数与月流量，再对照三档权益，选定后参照客户端文档完成订阅配置。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "flashchargenet.cn",
+    "host": "flashchargenet.cn"
+  },
+  "file_hashes": {
+    "index.html": "225d4a8c84d940222e299f8f97599155478b7ebeee3e2db2604403e8f6e33964",
+    "sitemap.xml": "0b4bed57188c8ceea871ca07481d6b46f779a8d8035ada8645c95f7f26ebb269",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "adad65fed8a5a910b29d4f8fd14faf18806970a979d348312a2736614e29ad99",
+    "robots.txt": "c4e67f1c65d7853522006ec15c2db4bfa267a77bdbcca2589adf8dceb12ba252",
+    "41af98532ac5e2ca7553067301bfea31.txt": "a5809cb4149d01f162925974a50109ce78688832cec9ae4fbd84b7d6d880bb41"
+  },
+  "revision": "f328ebbc8271547b5c87e2ffc3a2fbbadd53dc2897126fecbbe753b777fc9332"
+}
